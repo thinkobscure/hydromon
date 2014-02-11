@@ -1,0 +1,48 @@
+Device -> Arduino Mega 2560
+
+* Temp Sensor
+black -> GND
+red -> yellow -> DIO 24(VCC)
+white -> A0
+
+* Float Sensor
+white -> PWM2 (interrupt)
+yellow -> VCC(5v)
+
+* I/O output (for water refill pump)
+black -> GND
+white -> DIO25
+
+* LCD
+red -> VCC
+black -> GND
+yellow -> TX3
+
+* CO2 System (max233)
+->TX3
+->RX3
+
+* Serial Mux/DeMux
+S1 -> 23
+S0 -> 22
+RX -> TX2
+TX -> RX2
+
+* EC Sensor
+-> Y0 
+
+* Ph Sensor
+-> Y1
+
+* ChronoDot
+GND -> GND
+VCC -> 3.3v or 5v
+SCL -> pin 21
+SDA -> pin 20
+
+* Ethernet Sheild
+13 -> 52
+12 -> 50
+11 -> 51
+
+Serial0 reserved for debugging output

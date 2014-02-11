@@ -1,0 +1,39 @@
+
+Electronics:
+Arudnio Mega 2560 - $54.95 sparkfun.com
+Arudino Ethernet Sheild
+ARD-0153 MEGAshield KIT for Arduino MEGA 2560 R3 - $14.99 nkcelectronics.com
+ChronoDot RTC - $14.99 macetech.com
+PH Kit - atlas-scientific.com
+EC kit - atlas-scientific.com
+Temp Sensor - atlas-scientific.com
+Float Switch $33- chicagosensor
+
+Connectors:
+Molex Ethernet Bulkhead 130055-0001
+Molex Ethernet Connector 
+Bulgin USB Bulkhead PX0845/B
+Bulgin USB Cap
+Bulgin USB Cable w/ Mating End
+
+Bulgin Male Pins
+Bulgin Female Pins
+Bulgin 2 Pin female bulkhead
+Bulgin 2 pin male plug
+Bulgin 3 Pin female bulkhead
+Bulgin 3 pin male plug
+2x BNC connectors from ph & ec kits
+
+Housing:
+Otterbox 3500 or other Box
+
+
+To Get:
+o-rings/nuts 1/2-28unef2a for BNC connectors
+
+Want:
+Comet T6340 CO2 Sensor, Humidty & Temp Sensor
+Par/Lux sensor
+Flow Sensor
+
+
